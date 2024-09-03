@@ -1,0 +1,5 @@
+streamlit==1.25.0
+langchain_community==0.0.8
+python-dotenv==1.0.0
+
+
